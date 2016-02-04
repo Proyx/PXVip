@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settingexport>
+  <settinggroup>
+    <setting>
+      <conf_is_title>1</conf_is_title>
+      <conf_title_keyword>pxvip_Settings</conf_title_keyword>
+      <conf_title_title>PXVip</conf_title_title>
+      <conf_title_desc/>
+      <conf_title_tab>PXVip</conf_title_tab>
+      <conf_title_app>PXVip</conf_title_app>
+      <conf_title_noshow>0</conf_title_noshow>
+    </setting>
+    <setting>
+      <conf_title>Grupo Vip</conf_title>
+      <conf_description>O grupo escolhido para ser usado como Vip</conf_description>
+      <conf_group>58</conf_group>
+      <conf_type>dropdown</conf_type>
+      <conf_key>pxvip_GrupoVip</conf_key>
+      <conf_default>3</conf_default>
+      <conf_extra>#show_groups#</conf_extra>
+      <conf_evalphp/>
+      <conf_protected>0</conf_protected>
+      <conf_position>1</conf_position>
+      <conf_start_group/>
+      <conf_add_cache>1</conf_add_cache>
+      <conf_keywords/>
+      <conf_title_keyword>pxvip_Settings</conf_title_keyword>
+      <conf_is_title>0</conf_is_title>
+    </setting>
+  </settinggroup>
+</settingexport>

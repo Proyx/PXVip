@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export>
+  <group>
+    <row>
+      <task_id>31</task_id>
+      <task_title>Mudar Grupo</task_title>
+      <task_file>groupChangeTask.php</task_file>
+      <task_next_run>1454606880</task_next_run>
+      <task_week_day>-1</task_week_day>
+      <task_month_day>-1</task_month_day>
+      <task_hour>-1</task_hour>
+      <task_minute>-1</task_minute>
+      <task_cronkey>f183b50cfa8cf68a8107e83ea959e1e3</task_cronkey>
+      <task_log>1</task_log>
+      <task_description/>
+      <task_enabled>1</task_enabled>
+      <task_key>pxviptask</task_key>
+      <task_safemode>0</task_safemode>
+      <task_locked>0</task_locked>
+      <task_application>PXVip</task_application>
+    </row>
+  </group>
+</export>
